@@ -1,4 +1,3 @@
-#!/bin/bash
 FROM nginx
 LABEL name="vue-front"
 LABEL version="1.0"
